@@ -1,10 +1,13 @@
-"Change added in dazzling_features branch."
+What the hell is going on here????A second Branch_edit!
+Experimenting here;
+hoping to learn!!
+
+Change made in Master Branch!
 
 This is the COLLABORATOR here; making changes like a boyo!!
 Can you see it?
 Can you really?
 
 "This is the readme file for the tutorial repository." 
-
-Second edit to README file just to see Git track it.
+See Git track it.
 
